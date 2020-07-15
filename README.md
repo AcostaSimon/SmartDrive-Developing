@@ -6,6 +6,10 @@
 
 **Tecnologias utilizadas para su desarrollo:**
 
+**-** XML
+
+**-** Json
+
 **-** HTML5
 
 **-** CSS3
