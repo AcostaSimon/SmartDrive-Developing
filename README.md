@@ -7,14 +7,23 @@
 **Tecnologias utilizadas para su desarrollo:**
 
 **-** HTML5
+
 **-** CSS3
+
 **-** JavaScript
+
 **-** Framework7 **/** Jquery
+
 **-** Firebase
+
 **-** Photoshop **(** Para las imagenes, iconos y demas utilizados **)**
+
 **-** ApacheCordova **/** Phonegap
+
 **-** Plugins: Cordova
+
 **-** Api: Here Maps
+
 
 <a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/rFV3Mpv/0-AFB8-F4-A9.png" alt="0-AFB8-F4-A9" border="0"></a>
 
