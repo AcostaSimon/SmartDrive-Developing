@@ -1,6 +1,6 @@
 # SmartDrive-Developing
 
-<a href="https://ibb.co/3m5MNvp"><img src="https://i.ibb.co/xqKfjY1/Logo-BETA02-copia.png" alt="Logo-BETA02-copia" align="center" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>como copiar url de imagen</a><br />
+<a href="https://ibb.co/3m5MNvp"><img src="https://i.ibb.co/xqKfjY1/Logo-BETA02-copia.png" alt="Logo-BETA02-copia" width="40%" height="40%" align="center" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>como copiar url de imagen</a><br />
 
 - Smart-Drive será una aplicación simple y versátil. Capaz de administrar gastos y consumos del vehículo o vehículos del usuario así también de realizar notificaciones sobre mantenimientos y generar informes de uso.
 
@@ -17,3 +17,20 @@
 **La aplicación permitira:**
 
 **Gestión de gastos:**
+- Calculo de autonomia de combustible del vehiculo.
+- Registrar recargas de combustible.
+
+**Datos de conduccion:**
+- Km recorridos.
+- Velocidad promedio.
+- Velocidad minima/maxima registradas.
+
+**Vigia:(En evaluacion)**
+- Filmacion del periodo de conduccion.
+
+**Notificaciones:**
+- Mantenimientos de ruedas.
+- Cambios de aceite.
+- Revisar liquido de freno.
+- Recomendacion de cambios de correa de distribucion. **(** AutoMotores **)**
+- Recomendacion de kit de arrastre. **(** Motocicletas **/** Ciclomotores **)**
