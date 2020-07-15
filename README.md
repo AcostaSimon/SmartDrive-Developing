@@ -37,4 +37,4 @@
 
 **Capturas de pantalla:**
 
-<a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/2ZWfSsm/Screenshot-20200714-222656-Smart-Drive.jpg" width="40%" height="40%" alt="Screenshot-20200714-222656-Smart-Drive" border="0"></a>
+<a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/2ZWfSsm/Screenshot-20200714-222656-Smart-Drive.jpg" width="40%" height="40%" alt="Screenshot-20200714-222656-Smart-Drive" border="0"></a><a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/tZBS710/Screenshot-20200714-222641-Smart-Drive.jpg" alt="Screenshot-20200714-222641-Smart-Drive" border="0"></a>
