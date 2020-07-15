@@ -24,17 +24,17 @@
 ● Velocidad promedio.
 
 **GPS:**
-●	Historial/Recorrido realizado.
-●	Ubicacion del vehiculo. (Manual/Automático por desc. de bluetooth.)
-●	Búsqueda de gasolineras en la zona.
-●	Consejos básicos sobre el clima de la zona.
-●	Vigía al conducir:
-●	Grabación del periodo de conducción.(2doPlano utilizando la cámara trasera)
-●	Notificaciones sobre:
-●	Mantenimiento de ruedas.
-●	Cambios de aceite.
-●	Revisar liquido de freno.
-●	Recomendación de cambios de Correa de distribución. (AutoMotores)
-●	Recomendación de cambios de kit de arrastre. (Motocicletas)
-●	Recordatorios de agregar nuevos registros.
-●	Exportar datos de la app.
+● Historial/Recorrido realizado.
+● Ubicacion del vehiculo. (Manual/Automático por desc. de bluetooth.)
+● Búsqueda de gasolineras en la zona.
+● Consejos básicos sobre el clima de la zona.
+● Vigía al conducir:
+● Grabación del periodo de conducción.(2doPlano utilizando la cámara trasera)
+● Notificaciones sobre:
+● Mantenimiento de ruedas.
+● Cambios de aceite.
+● Revisar liquido de freno.
+● Recomendación de cambios de Correa de distribución. (AutoMotores)
+● Recomendación de cambios de kit de arrastre. (Motocicletas)
+● Recordatorios de agregar nuevos registros.
+● Exportar datos de la app.
